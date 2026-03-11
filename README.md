@@ -1,15 +1,28 @@
-# Internship_Project_1
+# Internship Project 1
 
-Learning basic Linux commands and Git workflow.
+This repository is a sample submission for the DevOps intern task:
 
-## DevOps Intern Task - Sample Project
+1. Learn basic Linux commands and Git workflow  
+2. Create a Git repository and push a sample project  
+3. Share the repository link in the group
 
-This repository demonstrates:
-- Basic Linux commands
-- Basic Git workflow
-- A sample project pushed to Git
+## Project Overview
 
-## 1) Basic Linux Commands (Quick Practice)
+This project includes:
+- A practice list of commonly used Linux commands
+- A basic Git workflow for version control
+- A sample shell script: `scripts/hello.sh`
+
+## Repository Structure
+
+```text
+.
+├── README.md
+└── scripts
+    └── hello.sh
+```
+
+## Linux Commands Practice
 
 ```bash
 pwd
@@ -24,7 +37,7 @@ mv notes-copy.txt archive.txt
 rm archive.txt
 ```
 
-## 2) Basic Git Workflow
+## Git Workflow
 
 ```bash
 git init
@@ -36,12 +49,9 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 
-## 3) Sample Project
+## Run the Sample Project
 
-The sample project is a tiny shell script under `scripts/`:
-- `scripts/hello.sh`
-
-Run it on Linux:
+On Linux/macOS:
 
 ```bash
 chmod +x scripts/hello.sh
@@ -54,12 +64,10 @@ Expected output:
 Hello from the DevOps sample project!
 ```
 
-## 4) Share Repository Link
+## Submission
 
-After pushing to GitHub/GitLab, share the repository URL in your group.
-
-Example:
+Repository link:
 
 ```text
-https://github.com/<username>/devops-intern-sample
+https://github.com/Sanvith6/Internship_Project_1
 ```
