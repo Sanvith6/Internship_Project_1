@@ -64,10 +64,3 @@ Expected output:
 Hello from the DevOps sample project!
 ```
 
-## Submission
-
-Repository link:
-
-```text
-https://github.com/Sanvith6/Internship_Project_1
-```
