@@ -1,10 +1,3 @@
-# Internship Project 1
-
-This repository is a sample submission for the DevOps intern task:
-
-1. Learn basic Linux commands and Git workflow  
-2. Create a Git repository and push a sample project  
-3. Share the repository link in the group
 
 ## Project Overview
 
